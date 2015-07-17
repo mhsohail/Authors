@@ -1,0 +1,18 @@
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\bin\Debug\authors.exe
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\bin\Debug\authors.pdb
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.Form1.resources
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.Properties.Resources.resources
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.csproj.GenerateResource.Cache
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.exe
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.pdb
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.Form2.resources
+C:\Users\ITS4U WAQAR\Documents\Visual Studio 2010\Projects\authors\authors\obj\x86\Debug\authors.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\bin\Debug\authors.exe
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\bin\Debug\authors.pdb
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.Form1.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.Form2.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2013\Projects\authors\authors\obj\x86\Debug\authors.csproj.GenerateResource.Cache
